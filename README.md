@@ -5,3 +5,8 @@ O projeto teve como objetivo implementar um rastreador de dispositivos eletrôni
 <font>
     <img src = "https://github.com/fcoiuri/Rastreador-Utilizando-ESP8266/blob/master/Firebase.PNG" width = "500" height =  "480" >
   </font>
+ 
+ ## Terminal do Arduino 
+ <font>
+    <img src = "https://github.com/fcoiuri/Rastreador-Utilizando-ESP8266/blob/master/Codigo%20no%20Arduino/Console%20do%20Arduino.PNG" width = "500" height =  "480" >
+  </font>
